@@ -1,0 +1,8 @@
+Used the dockerized smart brain app to set up but ran into 'NOT allowed by CORS' error
+0
+Vince · Lecture 336
+· 9 months ago
+
+I cloned the repo from this one. I ran npm install and npm audit fix --force so that the app could have no vulnerabilities. Then I added the clarifai key in server.js where it should be added.
+
+I then ran docker-compose up to define and run the container then it hangs. I thought this would be an opportunity to enter localhost:3001 in the browser, but it returns:

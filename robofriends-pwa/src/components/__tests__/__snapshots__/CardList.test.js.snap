@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Takes snapshot of CardList component 1`] = `
+<div>
+  <Card
+    email="johndoe@gmail.com"
+    id={1}
+    key="0"
+    name="John Snow"
+  />
+</div>
+`;
